@@ -66,4 +66,4 @@ Star Schema with one fact table and three dimension tables:
 
 ---
 
-**LinkedIn:** [yashraj33](https://www.linkedin.com/in/yashraj33/) · **GitHub:** [YashINdataXYX](https://github.com/YashINdataXYX)
+**LinkedIn:** [yashraj33](https://www.linkedin.com/in/yashraj33/) · **GitHub:** [YashINDataYRJ](https://github.com/YashINDataYRJ)
