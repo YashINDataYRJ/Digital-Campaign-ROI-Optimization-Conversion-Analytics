@@ -81,10 +81,8 @@ Star Schema with one fact table and three dimension tables:
     └── (source CSV files)
 ```
 
----
 
 **LinkedIn:** [yashraj33](https://www.linkedin.com/in/yashraj33/) · **GitHub:** [YashINDataYRJ](https://github.com/YashINDataYRJ)
 
-```
 
 
