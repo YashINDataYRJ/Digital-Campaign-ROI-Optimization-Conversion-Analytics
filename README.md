@@ -46,7 +46,7 @@ The business needed to know exactly where the money was leaking, which audiences
 | Purchase Rate | 0.61% |
 | Total Budget | 2.5M |
 
-![Dashboard Preview](screenshots/dashboard_preview.png)
+![Dashboard Preview](screenshots/dashboard_preview.png) 
 
 ---
 
